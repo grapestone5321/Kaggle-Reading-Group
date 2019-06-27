@@ -14,8 +14,8 @@ Join Kaggle Data Scientist Rachael as she reads through an NLP paper! Today's pa
 You can find a copy here: https://arxiv.org/pdf/1904.10509.pdf
 
 
-## Generating Long Sequences with Sparse Transformers | Kaggle
+## Multi-Task DNNs for Natural Language Understanding (Part 3) | Kaggle
 
-Join Kaggle Data Scientist Rachael as she reads through an NLP paper! Today's paper is "Generating Long Sequences with Sparse Transformers" (Child et al, unpublished). 
+Join Kaggle Data Scientist Rachael as she reads through an NLP paper! Today's paper is "Multi-Task Deep Neural Networks for Natural Language Understanding " (Liu et al, unpublished). 
 
-You can find a copy here: https://arxiv.org/pdf/1904.10509.pdf
+You can find a copy here: https://arxiv.org/pdf/1901.11504.pdf
