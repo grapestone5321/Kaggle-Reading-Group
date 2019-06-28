@@ -19,3 +19,10 @@ You can find a copy here: https://arxiv.org/pdf/1904.10509.pdf
 Join Kaggle Data Scientist Rachael as she reads through an NLP paper! Today's paper is "Multi-Task Deep Neural Networks for Natural Language Understanding " (Liu et al, unpublished). 
 
 You can find a copy here: https://arxiv.org/pdf/1901.11504.pdf
+
+
+## Dissecting contextual word embeddings (Part 4) | Kaggle
+
+Join Kaggle Data Scientist Rachael as she reads through an NLP paper! Today's paper is "Dissecting contextual word embeddings: Architecture and representation" (Peters et al, 2018). 
+
+You can find a copy here: https://aclweb.org/anthology/D18-1179
