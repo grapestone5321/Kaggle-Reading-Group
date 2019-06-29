@@ -26,3 +26,9 @@ You can find a copy here: https://arxiv.org/pdf/1901.11504.pdf
 Join Kaggle Data Scientist Rachael as she reads through an NLP paper! Today's paper is "Dissecting contextual word embeddings: Architecture and representation" (Peters et al, 2018). 
 
 You can find a copy here: https://aclweb.org/anthology/D18-1179
+
+### Probing the Need for Visual Context in Multimodal Machine Translation| Kaggle
+
+Join us for a special Kaggle Days edition of the Kaggle reading group! We'll be reading the recently-annouced best short paper from NAACL 2019; "Probing the Need for Visual Context in Multimodal Machine Translation". 
+
+You can find a copy here: https://arxiv.org/pdf/1903.08678.pdf
