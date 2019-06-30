@@ -32,3 +32,10 @@ You can find a copy here: https://aclweb.org/anthology/D18-1179
 Join us for a special Kaggle Days edition of the Kaggle reading group! We'll be reading the recently-annouced best short paper from NAACL 2019; "Probing the Need for Visual Context in Multimodal Machine Translation". 
 
 You can find a copy here: https://arxiv.org/pdf/1903.08678.pdf
+
+### Language Models are Unsupervised Multitask Learners (GPT-2, Part 3) | Kaggle
+
+Join Kaggle Data Scientist Rachael as she reads through an NLP paper! Today's paper is "Language Models are Unsupervised Multitask Learners" (Radford et al, unpublished). 
+
+You can find a copy here: https://d4mucfpksywv.cloudfront.net/b... 
+
