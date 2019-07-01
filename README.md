@@ -39,3 +39,13 @@ Join Kaggle Data Scientist Rachael as she reads through an NLP paper! Today's pa
 
 You can find a copy here: https://d4mucfpksywv.cloudfront.net/b... 
 
+
+### Bidirectional Encoder Representations from Transformers (aka BERT) (Part 4)
+
+Join Kaggle Data Scientist Rachael as she reads through an NLP paper! Today's paper is "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding" (Devlin et al, unpublished). 
+
+You can find a copy here: https://arxiv.org/pdf/1810.04805.pdf
+
+
+
+
