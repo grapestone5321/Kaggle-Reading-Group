@@ -47,5 +47,3 @@ Join Kaggle Data Scientist Rachael as she reads through an NLP paper! Today's pa
 You can find a copy here: https://arxiv.org/pdf/1810.04805.pdf
 
 
-
-
