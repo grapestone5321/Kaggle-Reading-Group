@@ -48,4 +48,10 @@ Join Kaggle Data Scientist Rachael as she reads through an NLP paper! Today's pa
 
 You can find a copy here: https://arxiv.org/pdf/1810.04805.pdf
 
+### Attention is all You Need (Pt. 3) | Kaggle
+
+Join Kaggle Data Scientist Rachael as she reads through an NLP paper! Today's paper is "Attention is All You Need" (Vaswani et al 2017). 
+
+You can find a copy here: https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf
+
 
