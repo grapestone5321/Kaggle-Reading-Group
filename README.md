@@ -1,5 +1,13 @@
 # Kaggle-Reading-Group
 
+
+### XLNet | Kaggle
+
+This week we're starting a new paper in the Kaggle reading group: XLNet: Generalized Autoregressive Pretraining for Language Understanding (Yang et al, unpublished). 
+
+You can read the paper here: https://arxiv.org/abs/1906.08237 
+
+
 ### Universal Sentence Encoder (Part 2) | Kaggle
 
 Join Kaggle Data Scientist Rachael as she reads through paper "Universal Sentence Encoder" by Cer et al. (Unpublished.) 
