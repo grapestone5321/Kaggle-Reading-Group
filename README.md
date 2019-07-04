@@ -62,4 +62,11 @@ Join Kaggle Data Scientist Rachael as she reads through an NLP paper! Today's pa
 
 You can find a copy here: https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf
 
+### Neural Networks and Neural Language Models (Part 3: Embeddings) | Kaggle
+
+The paper is the chapter "Neural Networks and Neural Language Models" from "Speech and Language Processing" by Daniel Jurafsky & James H. Martin. This chapter is new to the currently-in-progress edition of the book, so even if you've read it previously, this should be new. 
+
+You can find a link to the paper here: https://web.stanford.edu/~jurafsky/slp3/7.pdf
+
+
 
