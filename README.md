@@ -68,5 +68,9 @@ The paper is the chapter "Neural Networks and Neural Language Models" from "Spee
 
 You can find a link to the paper here: https://web.stanford.edu/~jurafsky/slp3/7.pdf
 
+### Understanding Social Connections from Unstructured Text | Kaggle
 
+Today's paper is "Know Who Your Friends Are: Understanding Social Connections from Unstructured Text", by Deleris et al. 
+
+Link to paper: https://www.aclweb.org/anthology/N18-5016
 
