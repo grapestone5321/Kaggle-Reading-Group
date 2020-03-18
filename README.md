@@ -74,6 +74,8 @@ Today's paper is "Know Who Your Friends Are: Understanding Social Connections fr
 
 Link to paper: https://www.aclweb.org/anthology/N18-5016
 
+### EfficientNet | Kaggle
+
 ### Learning from Dialogue after Deployment | Kaggle
 
 The paper is "Learning from Dialogue after Deployment: Feed Yourself, Chatbot!" by Hancock et al, 2019. (Published at ACL 2019 in Venice.)
