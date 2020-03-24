@@ -74,6 +74,10 @@ Today's paper is "Know Who Your Friends Are: Understanding Social Connections fr
 
 Link to paper: https://www.aclweb.org/anthology/N18-5016
 
+### Deep Learning for Symbolic Mathematics
+
+
+
 ### EfficientNet | Kaggle
 
 EfficientNet (Tan & Le, 2019) was published at ICML 2019. The paper proposes a new family of models that are both smaller and faster to train than traditional convolutional neural networks.
