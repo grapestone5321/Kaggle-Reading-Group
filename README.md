@@ -76,7 +76,7 @@ Link to paper: https://www.aclweb.org/anthology/N18-5016
 
 ### Deep Learning for Symbolic Mathematics
 
-
+The paper is "Deep Learning for Symbolic Mathematics", (anonymous, submitted to ICLR 2020).
 
 ### EfficientNet | Kaggle
 
