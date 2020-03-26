@@ -78,6 +78,9 @@ Link to paper: https://www.aclweb.org/anthology/N18-5016
 
 The paper is "Deep Learning for Symbolic Mathematics", (anonymous, submitted to ICLR 2020).
 
+Link to the paper: https://openreview.net/forum?id=S1eZY.
+                   https://openreview.net/pdf?id=S1eZYeHFDS
+
 ### EfficientNet | Kaggle
 
 EfficientNet (Tan & Le, 2019) was published at ICML 2019. The paper proposes a new family of models that are both smaller and faster to train than traditional convolutional neural networks.
