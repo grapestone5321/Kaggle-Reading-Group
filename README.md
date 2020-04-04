@@ -74,7 +74,7 @@ Today's paper is "Know Who Your Friends Are: Understanding Social Connections fr
 
 Link to paper: https://www.aclweb.org/anthology/N18-5016
 
-### Deep Learning for Symbolic Mathematics
+### Deep Learning for Symbolic Mathematics (Part 2) | Kaggle
 
 The paper is "Deep Learning for Symbolic Mathematics", (anonymous, submitted to ICLR 2020).
 
