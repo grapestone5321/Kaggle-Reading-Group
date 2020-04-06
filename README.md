@@ -74,7 +74,7 @@ Today's paper is "Know Who Your Friends Are: Understanding Social Connections fr
 
 Link to paper: https://www.aclweb.org/anthology/N18-5016
 
-Weight Agnostic Neural Networks (Part 2) | Kaggle
+### Weight Agnostic Neural Networks (Part 2) | Kaggle
 
 
 ### Deep Learning for Symbolic Mathematics (Part 2) | Kaggle
