@@ -1,5 +1,7 @@
 # Kaggle-Reading-Group
 
+We're continuing with the paper "Weight Agnostic Neural Networks" by Gaier & Ha from NeurIPS 2019.
+
 
 ### XLNet | Kaggle
 
