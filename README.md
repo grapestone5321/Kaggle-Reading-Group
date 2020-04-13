@@ -78,7 +78,7 @@ Link to paper: https://www.aclweb.org/anthology/N18-5016
 
 ### Probing Neural Network Comprehension of Natural Language Arguments (Part 2) | Kaggle 
 
- 
+BERT (which we read the paper for earlier) has had really impressive success on a number of NLP tasks... but how well is it really capturing the structures of natural language? 
  
 ### Weight Agnostic Neural Networks (Part 2) | Kaggle
 
