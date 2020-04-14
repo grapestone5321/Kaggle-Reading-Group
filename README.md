@@ -82,7 +82,7 @@ BERT (which we read the paper for earlier) has had really impressive success on 
 
 We're starting off on  "Probing Neural Network Comprehension of Natural Language Arguments" (Niven & Kao, 2019). 
  
- https://www.aclweb.org/anthology/P19-1459.pdf
+Link to the paper: https://www.aclweb.org/anthology/P19-1459.pdf
  
  
 ### Weight Agnostic Neural Networks (Part 2) | Kaggle
