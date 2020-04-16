@@ -76,6 +76,11 @@ Today's paper is "Know Who Your Friends Are: Understanding Social Connections fr
 
 Link to paper: https://www.aclweb.org/anthology/N18-5016
 
+### An Open Source AutoML Benchmark | Kaggle
+
+ https://www.automl.org/wp-content/uploads/2019/06/automlws2019_Paper45.pdf
+
+
 ### Probing Neural Network Comprehension of Natural Language Arguments (Part 2) | Kaggle 
 
 BERT (which we read the paper for earlier) has had really impressive success on a number of NLP tasks... but how well is it really capturing the structures of natural language? 
