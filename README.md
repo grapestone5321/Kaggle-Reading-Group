@@ -78,6 +78,8 @@ Link to paper: https://www.aclweb.org/anthology/N18-5016
 
 ### An Open Source AutoML Benchmark | Kaggle
 
+This week we're starting a new paper: An Open Source AutoML Benchmark by Gijsbers et al from the 2019 ICML Workshop on Automated Machine Learning.
+
  https://www.automl.org/wp-content/uploads/2019/06/automlws2019_Paper45.pdf
 
 
