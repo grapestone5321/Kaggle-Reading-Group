@@ -80,7 +80,7 @@ Link to paper: https://www.aclweb.org/anthology/N18-5016
 
 This week we're starting a new paper: An Open Source AutoML Benchmark by Gijsbers et al from the 2019 ICML Workshop on Automated Machine Learning.
 
- https://www.automl.org/wp-content/uploads/2019/06/automlws2019_Paper45.pdf
+Link to the paper: https://www.automl.org/wp-content/uploads/2019/06/automlws2019_Paper45.pdf
 
 
 ### Probing Neural Network Comprehension of Natural Language Arguments (Part 2) | Kaggle 
