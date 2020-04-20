@@ -76,6 +76,8 @@ Today's paper is "Know Who Your Friends Are: Understanding Social Connections fr
 
 Link to paper: https://www.aclweb.org/anthology/N18-5016
 
+### XLNet (Part 4) | Kaggle
+
 ### An Open Source AutoML Benchmark | Kaggle
 
 This week we're starting a new paper: An Open Source AutoML Benchmark by Gijsbers et al from the 2019 ICML Workshop on Automated Machine Learning.
