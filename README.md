@@ -78,6 +78,10 @@ Link to paper: https://www.aclweb.org/anthology/N18-5016
 
 ### XLNet (Part 4) | Kaggle
 
+This week we're continuing with XLNet: Generalized Autoregressive Pretraining for Language Understanding (Yang et al, unpublished). 
+
+You can read the paper here: https://arxiv.org/abs/1906.08237 
+
 ### An Open Source AutoML Benchmark | Kaggle
 
 This week we're starting a new paper: An Open Source AutoML Benchmark by Gijsbers et al from the 2019 ICML Workshop on Automated Machine Learning.
