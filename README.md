@@ -76,11 +76,15 @@ Today's paper is "Know Who Your Friends Are: Understanding Social Connections fr
 
 Link to paper: https://www.aclweb.org/anthology/N18-5016
 
+
+
 ### XLNet (Part 4) | Kaggle
 
-This week we're continuing with XLNet: Generalized Autoregressive Pretraining for Language Understanding (Yang et al, unpublished). 
+The paper is "Generalized Autoregressive Pretraining for Language Understanding" (Yang et al, unpublished). 
 
 You can read the paper here: https://arxiv.org/abs/1906.08237 
+
+
 
 ### An Open Source AutoML Benchmark | Kaggle
 
