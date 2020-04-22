@@ -82,7 +82,7 @@ Link to paper: https://www.aclweb.org/anthology/N18-5016
 
 The paper is "Generalized Autoregressive Pretraining for Language Understanding" (Yang et al, unpublished). 
 
-You can read the paper here: https://arxiv.org/abs/1906.08237 
+You can read the paper here: https://arxiv.org/pdf/1906.08237.pdf
 
 
 
