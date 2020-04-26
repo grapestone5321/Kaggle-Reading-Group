@@ -1,6 +1,12 @@
 # Kaggle-Reading-Group
 
-We're continuing with the paper "Weight Agnostic Neural Networks" by Gaier & Ha from NeurIPS 2019.
+### An Open Source AutoML Benchmark | Kaggle
+
+This week we're starting a new paper: An Open Source AutoML Benchmark by Gijsbers et al from the 2019 ICML Workshop on Automated Machine Learning.
+
+Link to the paper: https://www.automl.org/wp-content/uploads/2019/06/automlws2019_Paper45.pdf
+
+
 
 
 ### XLNet | Kaggle
