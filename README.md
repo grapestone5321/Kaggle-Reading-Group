@@ -1,5 +1,12 @@
 # Kaggle-Reading-Group
 
+### Weight Agnostic Neural Networks (Part 2) | Kaggle
+
+The paper is "Weight Agnostic Neural Networks" by Gaier & Ha from NeurIPS 2019.
+
+Link to paper: https://arxiv.org/pdf/1906.04358.pdf
+
+
 ### Probing Neural Network Comprehension of Natural Language Arguments (Part 2) | Kaggle 
 
 BERT (which we read the paper for earlier) has had really impressive success on a number of NLP tasks... but how well is it really capturing the structures of natural language? 
