@@ -1,5 +1,14 @@
 # Kaggle-Reading-Group
 
+### Deep Learning for Symbolic Mathematics (Part 2) | Kaggle
+
+The paper is "Deep Learning for Symbolic Mathematics", (anonymous, submitted to ICLR 2020).
+
+Link to the paper: https://openreview.net/pdf?id=S1eZYeHFDS
+
+
+
+
 ### Weight Agnostic Neural Networks (Part 2) | Kaggle
 
 The paper is "Weight Agnostic Neural Networks" by Gaier & Ha from NeurIPS 2019.
