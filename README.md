@@ -1,5 +1,13 @@
 # Kaggle-Reading-Group
 
+### EfficientNet (Part 2) | Kaggle
+
+EfficientNet (Tan & Le, 2019) was published at ICML 2019. The paper proposes a new family of models that are both smaller and faster to train than traditional convolutional neural networks.
+
+Link to paper: http://proceedings.mlr.press/v97/tan19a/tan19a.pdf
+
+
+
 ### Deep Learning for Symbolic Mathematics (Part 2) | Kaggle
 
 The paper is "Deep Learning for Symbolic Mathematics", (anonymous, submitted to ICLR 2020).
