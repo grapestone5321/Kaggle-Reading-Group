@@ -176,10 +176,5 @@ EfficientNet (Tan & Le, 2019) was published at ICML 2019. The paper proposes a n
 
 Link to paper: http://proceedings.mlr.press/v97/tan19a/tan19a.pdf
 
-### Learning from Dialogue after Deployment | Kaggle
-
-The paper is "Learning from Dialogue after Deployment: Feed Yourself, Chatbot!" by Hancock et al, 2019. (Published at ACL 2019 in Venice.)
-
-Link to paper: https://www.aclweb.org/anthology/P19-1358.pdf
 
 
