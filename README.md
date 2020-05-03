@@ -170,11 +170,6 @@ Link to the paper: https://openreview.net/pdf?id=S1eZYeHFDS
 
 
 
-### EfficientNet (Part 2) | Kaggle
-
-EfficientNet (Tan & Le, 2019) was published at ICML 2019. The paper proposes a new family of models that are both smaller and faster to train than traditional convolutional neural networks.
-
-Link to paper: http://proceedings.mlr.press/v97/tan19a/tan19a.pdf
 
 
 
