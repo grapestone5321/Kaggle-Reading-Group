@@ -155,13 +155,6 @@ We're starting off on  "Probing Neural Network Comprehension of Natural Language
 Link to the paper: https://www.aclweb.org/anthology/P19-1459.pdf
  
  
-### Weight Agnostic Neural Networks (Part 2) | Kaggle
-
-The paper is "Weight Agnostic Neural Networks" by Gaier & Ha from NeurIPS 2019.
-
-Link to paper: https://arxiv.org/pdf/1906.04358.pdf
-
-
 
 
 
