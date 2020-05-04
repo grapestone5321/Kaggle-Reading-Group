@@ -162,14 +162,6 @@ The paper is "Weight Agnostic Neural Networks" by Gaier & Ha from NeurIPS 2019.
 Link to paper: https://arxiv.org/pdf/1906.04358.pdf
 
 
-### Deep Learning for Symbolic Mathematics (Part 2) | Kaggle
-
-The paper is "Deep Learning for Symbolic Mathematics", (anonymous, submitted to ICLR 2020).
-
-Link to the paper: https://openreview.net/pdf?id=S1eZYeHFDS
-
-
-
 
 
 
