@@ -1,5 +1,8 @@
 # Kaggle-Reading-Group
 
+## Rachael | Kaggle
+
+Rachael was leaving Kaggle for new opportunities in 2020
 
 ### Learning from Dialogue after Deployment | Kaggle
 
