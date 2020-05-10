@@ -6,6 +6,8 @@ Rachael was leaving Kaggle for new opportunities in 2020
 
 ### 1. Learning from Dialogue after Deployment | Kaggle
 
+Streamed live on Oct 31, 2019
+
 The paper is "Learning from Dialogue after Deployment: Feed Yourself, Chatbot!" by Hancock et al, 2019. (Published at ACL 2019 in Venice.)
 
 Link to paper 1.: https://www.aclweb.org/anthology/P19-1358.pdf
