@@ -212,14 +212,7 @@ You can follow along with the paper here 19.: https://www.aclweb.org/anthology/D
 ### 44. On NMT Search Errors and Model Errors: Cat Got Your Tongue? (Part 1) | Kaggle
 
 
-### 45. Kaggle Live Coding: Fuzzy Matching for Spelling Erros | Kaggle
-
-Streamed live on Dec 21, 2019
-
-
-This week we'll be working on using fuzzy matching to help correct spelling errors in the dataset "International Energy Statistics" 
-
-link to data: https://www.kaggle.com/unitednations/international-energy-statistics
+### 45. Blank 
 
 
 
