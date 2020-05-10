@@ -63,7 +63,7 @@ Link to the paper 6.: https://www.automl.org/wp-content/uploads/2019/06/automlws
 
 This week we're starting a new paper in the Kaggle reading group: XLNet: Generalized Autoregressive Pretraining for Language Understanding (Yang et al, unpublished). 
 
-You can read the paper7.: https://arxiv.org/abs/1906.08237 
+You can read the paper7.: https://arxiv.org/pdf/1906.08237.pdf
 
 ### 12. XLNet (Part 3) | Kaggle
 
