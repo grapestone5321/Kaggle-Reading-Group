@@ -192,8 +192,7 @@ You can find a link to the paper here 16.: https://web.stanford.edu/~jurafsky/sl
 
 Today's paper is "Know Who Your Friends Are: Understanding Social Connections from Unstructured Text", by Deleris et al. 
 
-Link to paper 17.: https://www.aclweb.org/anthology/N18-5016
-
+Link to paper 17.: https://www.aclweb.org/anthology/N18-5016.pdf
 
 ### 42. Learning from Dialogue after Deployment (Part 2) | Kaggle
 
