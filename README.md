@@ -116,7 +116,7 @@ You can find a copy here 10.: https://arxiv.org/pdf/1901.11504.pdf
 
 Join Kaggle Data Scientist Rachael as she reads through an NLP paper! Today's paper is "Dissecting contextual word embeddings: Architecture and representation" (Peters et al, 2018). 
 
-You can find a copy here 11.: https://aclweb.org/anthology/D18-1179
+You can find a copy here 11.: https://www.aclweb.org/anthology/D18-1179.pdf
 
 ### 24. Dissecting contextual word embeddings (Part 3) | Kaggle
 
