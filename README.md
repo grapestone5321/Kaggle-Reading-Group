@@ -20,7 +20,7 @@ EfficientNet (Tan & Le, 2019) was published at ICML 2019. The paper proposes a n
 
 Link to paper 2.: http://proceedings.mlr.press/v97/tan19a/tan19a.pdf
 
-### 3. EfficientNet (Part 1) | Kaggle
+## 3. EfficientNet (Part 1) | Kaggle
 
 
 ### 4. Deep Learning for Symbolic Mathematics (Part 2) | Kaggle
