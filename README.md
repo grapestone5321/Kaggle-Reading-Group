@@ -14,7 +14,7 @@ Link to paper 1.: https://www.aclweb.org/anthology/P19-1358.pdf
 
 
 
-# 2. EfficientNet (Part 2) | Kaggle
+## 2. EfficientNet (Part 2) | Kaggle
 
 EfficientNet (Tan & Le, 2019) was published at ICML 2019. The paper proposes a new family of models that are both smaller and faster to train than traditional convolutional neural networks.
 
