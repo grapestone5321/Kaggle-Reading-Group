@@ -1,4 +1,4 @@
-### Kaggle-Reading-Group
+## Kaggle-Reading-Group
 
 ## Rachael | Kaggle
 
