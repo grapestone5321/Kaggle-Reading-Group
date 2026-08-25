@@ -23,7 +23,7 @@ Link to paper 2.: http://proceedings.mlr.press/v97/tan19a/tan19a.pdf
 ## 3. EfficientNet (Part 1) | Kaggle
 
 
-### 4. Deep Learning for Symbolic Mathematics (Part 2) | Kaggle
+## 4. Deep Learning for Symbolic Mathematics (Part 2) | Kaggle
 
 The paper is "Deep Learning for Symbolic Mathematics", (anonymous, submitted to ICLR 2020).
 
