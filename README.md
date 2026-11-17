@@ -4,7 +4,7 @@
 
 Rachael was leaving Kaggle for new opportunities in 2020
 
-### 1. Learning from Dialogue after Deployment | Kaggle
+## 1. Learning from Dialogue after Deployment | Kaggle
 
 Streamed live on Oct 31, 2019
 
